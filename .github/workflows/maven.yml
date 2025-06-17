@@ -2,7 +2,7 @@ name: Auto Build and Release
 
 on:
   push:
-    branches: [ "master" ]  # Change this to your main branch if needed
+    branches: [ "main" ]  # Change this to your main branch if needed
 
 jobs:
   build:
